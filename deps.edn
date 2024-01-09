@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {org.clojure/core.async {:mvn/version "1.6.681"}
+        medley/medley {:mvn/version "1.4.0"}
+        com.brunobonacci/mulog {:mvn/version "0.9.0"}}}
